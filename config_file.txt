@@ -1,0 +1,4 @@
+[app-info]
+inputSurroundingsFile = C:\Users\d.roa\Documents\Philip Morris\PoS\UseCase_3_Datasets\Surroundings.json
+resultsPath = ./results/
+inputSalesFile = .\data\sales_granular.csv
