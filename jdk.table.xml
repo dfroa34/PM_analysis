@@ -1,0 +1,203 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (Thesis)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\d.roa\PycharmProjects\Thesis\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/Thesis/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Thesis/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Thesis/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Thesis/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/356116663" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Thesis" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (PythonIntegrationTest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\d.roa\PycharmProjects\PythonIntegrationTest\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/PythonIntegrationTest/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PythonIntegrationTest/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PythonIntegrationTest/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PythonIntegrationTest/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-130303905" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PythonIntegrationTest" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (PilotThesis)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\d.roa\PycharmProjects\PilotThesis\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/PilotThesis/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PilotThesis/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PilotThesis/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PilotThesis/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/116451385" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PilotThesis" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\d.roa\AppData\Local\Continuum\anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/Babel-2.5.0-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/tzlocal-1.5.1-py3.6.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/celonis-0.0.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/pyorcloader-0.0.1-py3.6-win-amd64.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1852701052" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (NLPApp)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\d.roa\PycharmProjects\NLPApp\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/NLPApp/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/NLPApp/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/NLPApp/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/NLPApp/venv/Lib/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/433480506" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/NLPApp" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (PhilipMorris)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\d.roa\PycharmProjects\PhilipMorris\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PhilipMorris/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PhilipMorris/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/PhilipMorris/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PhilipMorris/venv/Lib/site-packages/pip-9.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1824846297" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PhilipMorris" />
+    </jdk>
+  </component>
+</application>
